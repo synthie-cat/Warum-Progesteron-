@@ -84,7 +84,7 @@ Die folgenden Informationen und Übersetzung basieren auf Informationen aus dem 
 
 **Oral 200mg (Pinke Linine)**
 
-![[images/image1.png]]
+![alt=Orale Einnahme](images/image1.png)
 
 **Rektal 100mg (Lila Linine)**
 
