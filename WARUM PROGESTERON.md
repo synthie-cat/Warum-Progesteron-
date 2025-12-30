@@ -212,8 +212,8 @@ Die folgenden Informationen und Übersetzung basieren auf Informationen aus dem 
 **(Orale und/oder vaginale Gelkapseln können beide RECTAL eingenommen werden, ohne dass die Pille vorher zerbrochen werden muss.)**
 
 **USA: Prometrium (oral)**  
-**UK: Utrogestan (vaginal/oral), Cyclogest (pessary)**
-**DEUTSCHLAND: Utrogest(oral), Famentia (oral), Progestan (oral),
+**UK: Utrogestan (vaginal/oral), Cyclogest (pessary)**  
+**DEUTSCHLAND: Utrogest(oral), Famentia (oral), Progestan (oral)**
 
 **Wenn eine Pille einfach als generisches 100 mg oder 200 mg Progesteron aufgeführt ist, schau dir die Bilder oben an, aber wenn es sich wieder um eine Gelkapsel handelt, ist es mit ziemlicher Sicherheit mikronisiertes Progesteron.**
 
