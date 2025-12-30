@@ -84,11 +84,11 @@ Die folgenden Informationen und Übersetzung basieren auf Informationen aus dem 
 
 **Oral 200mg (Pinke Linine)**
 
-![alt=Orale Einnahme](images/image1.png)
+![Werte bei oraler Einnahme](images/image1.png)
 
 **Rektal 100mg (Lila Linine)**
 
-![[images/image2.png]]
+![Werte bei rektaler Einnahme](images/image2.png)
 
 **WANN SOLLTE MAN MIT DER EINNAHME VON PROGESTERON BEGINNEN?**
 
@@ -120,7 +120,7 @@ Die folgenden Informationen und Übersetzung basieren auf Informationen aus dem 
 
 **Durch die rektale Einnahme von Progesteron wird auch die Menge reduziert, die (ganz oder teilweise) in Allopregnanolon umgewandelt wird, wodurch negative Auswirkungen auf die psychische Gesundheit vermieden werden sollten, die bei oraler Einnahme auftreten können.** 
 
-![[images/image3.png]]
+![Vergleich Allopregnanolon Werte orale Einnahme vs. Vermeidung des first-pass-Effekts durch vaginale einnahme](images/image3.png)
 
 **Bei oraler Einnahme wird ein großer Teil in der Leber in Allopregnanolon umgewandelt.**
 
@@ -130,9 +130,9 @@ Die folgenden Informationen und Übersetzung basieren auf Informationen aus dem 
 
 **Wichtig ist aber, dass etwa ein Drittel der cis-Frauen, wenn ihr Allopregnanolon-Spiegel auf dem Niveau der Lutealphase ist (entweder natürlich oder durch Progesteron-Medikamente), mittelschwere bis schwere PMS-Symptome haben (25 % mittelschwer, 8–9 % schwer). Das scheint genetisch bedingt zu sein und könnte erklären, warum manche Transfrauen ähnliche PMS-Symptome durch orales Progesteron haben. [[\#](https://www.sciencedirect.com/science/article/abs/pii/S0306452211003691)\]**
 
-![[images/image4.png]]
+![](images/image4.png)
 
-![[images/image5.png]]
+![](images/image5.png)
 
 **Die obige Grafik zeigt die normalen Allopregnanolonwerte im Vergleich zu Progesteron für den Hormonzyklus einer cis-Frau (Allo-Messungen auf der linken Seite, Progesteron-Messungen auf der rechten Seite). Beachte, dass die Grafik in nmol/L angegeben ist, im Gegensatz zu früheren Grafiken in ng/mL..**
 
@@ -183,14 +183,14 @@ Die folgenden Informationen und Übersetzung basieren auf Informationen aus dem 
 **FOLGEND – Beispiel für mikronisiertes bio-/körperidentisches Progesteron in Form von Tabletten zum Einnehmen/Vaginalpillen**   
 **(Hinweis: Auch wenn auf der Verpackung/in der Gebrauchsanweisung angegeben ist, dass es sich um orale oder vaginale Pillen handelt, können sie auch rektal eingenommen werden.)**  
 
-![[images/image6.png]]
-![[images/image7.png]]
+![Beispiel Progesteron Weichkapsel 1](images/image6.png)
+![Beispiel Progesteron Weichkapsel 2](images/image7.png)
 
 **Einfach zu erkennen: Die Pille hat eine äußere Gelatinehülle (glänzend/glatt/kunststoffartig), die beim Aufstechen oder Aufschneiden eine cremige Flüssigkeit freigibt. Bei einer Dosierung von 200 mg hat sie die Form einer Eizelle wie auf den Bildern oben, bei einer Dosierung von 100 mg ist sie kugelförmig.**
 
 **FOLGEND – Beispiel für ein mikronisiertes bio-/körperidentisches Progesteron-Zäpfchen/Pessar.**
 
-![[images/image8.png]]
+![Beispiel Progesteron Vaginalzäpfchen](images/image8.png)
 
 **Einfach zu erkennen: Im Vergleich zu oralen Pillen klar und groß, „torpedoförmig” oder in einer anderen Form, die das Einführen erleichtert. Keine äußere Schicht, glatt, fest, aber nicht pulverig. Progesteron wurde an Proteine gebunden, um eine feste Substanz zu schaffen, die nach dem Einführen langsam absorbiert wird.** 
 
@@ -200,8 +200,8 @@ Die folgenden Informationen und Übersetzung basieren auf Informationen aus dem 
 
 ****UNTEN – Beispiele für Medroxyprogesteron (zu vermeiden)****
 
-![[images/image9.png]]
-![[images/image10.png]]
+![Beispiel Medroxyprogesteron Tablette 1](images/image9.png)
+![Beispiel Medroxyprogesteron Tablette 2](images/image10.png)
 
 **Leicht zu erkennen: Die Pille ist gepresstes Pulver, ohne äußere Schicht. Wenn sie zerbrochen wird, zerfällt sie zu Pulver, ohne Flüssigkeit.**
 
@@ -248,7 +248,7 @@ Die folgenden Informationen und Übersetzung basieren auf Informationen aus dem 
 
 **ANEKDOTISCHE UMFRAGE UNTER 224 TRANSFEMININEN PERSONEN, DIE PROGESTERON EINNEHMEN, ZUM THEMA SEXUALTrieb (MAI 2023):**
 
-![[images/image11.png]]
+![Anekdotische Umfrageergebisse](images/image9.png)
 
 **Die oben genannten Umfragen (durchgeführt vom Autor) sind natürlich nur anekdotische Daten, die über das Internet (Fediverse) gesammelt wurden und sollten auch so gesehen werden und nicht als ernsthafte Studie. Da es aber keine richtigen wissenschaftlichen Studien zu diesem Thema gibt, dachte ich, dass es vielleicht hilfreich sein könnte, sie hier zu zeigen, um Leuten, die über ihre Optionen nachdenken, ein paar Infos zu geben.** 
 
