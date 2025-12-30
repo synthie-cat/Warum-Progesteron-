@@ -248,7 +248,7 @@ Die folgenden Informationen und Übersetzung basieren auf Informationen aus dem 
 
 **ANEKDOTISCHE UMFRAGE UNTER 224 TRANSFEMININEN PERSONEN, DIE PROGESTERON EINNEHMEN, ZUM THEMA SEXUALTrieb (MAI 2023):**
 
-![Anekdotische Umfrageergebisse](images/image9.png)
+![Anekdotische Umfrageergebisse](images/image11.png)
 
 **Die oben genannten Umfragen (durchgeführt vom Autor) sind natürlich nur anekdotische Daten, die über das Internet (Fediverse) gesammelt wurden und sollten auch so gesehen werden und nicht als ernsthafte Studie. Da es aber keine richtigen wissenschaftlichen Studien zu diesem Thema gibt, dachte ich, dass es vielleicht hilfreich sein könnte, sie hier zu zeigen, um Leuten, die über ihre Optionen nachdenken, ein paar Infos zu geben.** 
 
